@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @istiak2426
 - 👀 I’m interested in frontend web development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on frontend web developer.
 - 📫 How to reach me - 01748008483
 
