@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @istiak2426
-- 👀 I’m interested in frontend web development
+- 👀 I’m interested in MERN full stack web development
 - 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on frontend web developer.
+- 💞️ I’m looking to collaborate with Full stack web developer.
 - 📫 How to reach me - +8801748008483
 
 <!---
